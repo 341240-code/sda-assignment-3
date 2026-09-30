@@ -1,0 +1,11 @@
+order_id,customer_id,product_id,quantity,amount,payment_method,status,timestamp
+a1b2c3d4,f5e6d7c8,PROD-4921,2,145.5,Credit Card,payment_success,2026-08-31T12:45:00.123456
+x9y8z7w6,m1n2o3p4,PROD-1029,1,22.99,UPI,order_created,2026-08-31T12:45:01.123456
+q1w2e3r4,t5y6u7i8,PROD-8832,5,499.0,PayPal,payment_failed,2026-08-31T12:45:02.123456
+c8b7a6d5,e4f3g2h1,PROD-2034,3,89.97,Debit Card,payment_success,2026-08-31T12:45:03.123456
+j9k8l7m6,n5p4q3r2,PROD-7712,1,12.50,UPI,payment_success,2026-08-31T12:45:04.123456
+s1t2u3v4,w5x6y7z8,PROD-9001,2,250.00,Credit Card,order_created,2026-08-31T12:45:05.123456
+a9b8c7d6,e5f4g3h2,PROD-3321,4,110.20,PayPal,payment_success,2026-08-31T12:45:06.123456
+i1j2k3l4,m5n6o7p8,PROD-5544,1,45.00,Debit Card,payment_failed,2026-08-31T12:45:07.123456
+q9r8s7t6,u5v4w3x2,PROD-1198,5,320.75,Credit Card,payment_success,2026-08-31T12:45:08.123456
+y1z2a3b4,c5d6e7f8,PROD-8890,2,15.99,UPI,order_created,2026-08-31T12:45:09.123456
