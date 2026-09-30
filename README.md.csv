@@ -1,0 +1,4 @@
+# SDA Assignment 3 - E-Commerce Streaming Dashboard
+This repository contains the consumer script and MongoDB Atlas Charts configuration for a real-time e-commerce data pipeline. 
+- `consumer.py`: Subscribes to the Kafka 'orders' topic and pushes data to MongoDB Atlas.
+- `ecommerce_dashboard.charts`: The exported dashboard template containing the real-time visualizations.
